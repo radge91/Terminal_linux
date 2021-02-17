@@ -1,0 +1,3 @@
+#Comando para borrar
+rmdir /mi-directorio
+rm -rfv /mi-directorio
